@@ -142,3 +142,4 @@ This project should start simple and expand gradually. The first version should 
 The first version of the project will use Lotus’s Malaysia as the initial grocery price source.
 
 Starting with one source keeps the dataset consistent and allows the first version of the analysis to focus on basket-level cost, category contribution, and item-level price structure. Additional stores may be added later for price comparison.
+
