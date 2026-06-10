@@ -1,9 +1,25 @@
-date,item,category,quantity,unit,price_rm,store,location
-2026-06,Rice,Staples,5,kg,18.90,Lotus's,Malaysia
-2026-06,Bread,Staples,1,loaf,3.20,Lotus's,Malaysia
-2026-06,Milk,Dairy,1,L,7.50,Lotus's,Malaysia
-2026-06,Eggs,Protein,10,pieces,6.90,Lotus's,Malaysia
-2026-06,Onion,Vegetables,1,kg,4.20,Lotus's,Malaysia
-2026-06,Potato,Vegetables,1,kg,3.80,Lotus's,Malaysia
-2026-06,Cooking Oil,Cooking Basics,1,L,6.50,Lotus's,Malaysia
-2026-06,Sugar,Cooking Basics,1,kg,2.85,Lotus's,Malaysia
+collection_date,item_name,category,quantity,unit,price,store,location,source_url,notes
+2026-06-10,Rice,Staples,5,kg,,,Malaysia,,Essential staple
+2026-06-10,Bread,Staples,1,loaf,,,Malaysia,,Common breakfast item
+2026-06-10,Noodles,Staples,5,packets,,,Malaysia,,Quick meal option
+2026-06-10,Pasta,Staples,500,g,,,Malaysia,,Alternative staple
+2026-06-10,Oats,Staples,1,kg,,,Malaysia,,Breakfast item
+2026-06-10,Eggs,Protein,10,pieces,,,Malaysia,,Common protein item
+2026-06-10,Dhal,Protein,1,kg,,,Malaysia,,Vegetarian protein
+2026-06-10,Tofu,Protein,2,packets,,,Malaysia,,Vegetarian protein
+2026-06-10,Chickpeas,Protein,1,can,,,Malaysia,,Budget protein item
+2026-06-10,Canned Tuna,Protein,1,can,,,Malaysia,,Non-vegetarian protein option
+2026-06-10,Onion,Vegetables,1,kg,,,Malaysia,,Cooking essential
+2026-06-10,Tomato,Vegetables,1,kg,,,Malaysia,,Cooking essential
+2026-06-10,Potato,Vegetables,1,kg,,,Malaysia,,Common vegetable
+2026-06-10,Carrot,Vegetables,1,kg,,,Malaysia,,Common vegetable
+2026-06-10,Cabbage,Vegetables,1,kg,,,Malaysia,,Common vegetable
+2026-06-10,Milk,Dairy,1,L,,,Malaysia,,Dairy item
+2026-06-10,Yogurt,Dairy,1,kg,,,Malaysia,,Dairy item
+2026-06-10,Cheese,Dairy,1,pack,,,Malaysia,,Optional dairy item
+2026-06-10,Cooking Oil,Cooking Basics,1,L,,,Malaysia,,Cooking essential
+2026-06-10,Sugar,Cooking Basics,1,kg,,,Malaysia,,Cooking basic
+2026-06-10,Salt,Cooking Basics,1,kg,,,Malaysia,,Cooking basic
+2026-06-10,Flour,Cooking Basics,1,kg,,,Malaysia,,Cooking basic
+2026-06-10,Tea,Beverages / Extras,1,pack,,,Malaysia,,Common beverage
+2026-06-10,Coffee,Beverages / Extras,1,pack,,,Malaysia,,Common beverage
