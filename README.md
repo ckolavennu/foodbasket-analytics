@@ -37,3 +37,20 @@ To analyse the cost of a basic food basket, identify the food categories contrib
 - Basket-level affordability metrics
 - Interactive dashboard
 - Final insight summary
+
+## Project Scope
+
+This project analyses the cost of a basic student food basket in Malaysia using item-level grocery price data. It focuses on total basket cost, category-level contribution, and basic affordability insights.
+
+## Target User
+
+Students and young adults in Malaysia who want to understand monthly grocery cost and food affordability pressure.
+
+## Initial Basket Categories
+
+- Staples
+- Protein
+- Vegetables
+- Dairy
+- Cooking Basics
+- Beverages / Extras
