@@ -1,25 +1,25 @@
 collection_date,item_name,category,quantity,unit,price,store,location,source_url,notes
-2026-06-10,Rice,Staples,5,kg,,Lotus's Malaysia,Malaysia,,Essential staple
-2026-06-10,Bread,Staples,1,loaf,,Lotus's Malaysia,Malaysia,,Common breakfast item
-2026-06-10,Noodles,Staples,5,packets,,Lotus's Malaysia,Malaysia,,Quick meal option
-2026-06-10,Pasta,Staples,500,g,,Lotus's Malaysia,Malaysia,,Alternative staple
-2026-06-10,Oats,Staples,1,kg,,Lotus's Malaysia,Malaysia,,Breakfast item
-2026-06-10,Eggs,Protein,10,pieces,,Lotus's Malaysia,Malaysia,,Common protein item
-2026-06-10,Dhal,Protein,1,kg,,Lotus's Malaysia,Malaysia,,Vegetarian protein
-2026-06-10,Tofu,Protein,2,packets,,Lotus's Malaysia,Malaysia,,Vegetarian protein
-2026-06-10,Chickpeas,Protein,1,can,,Lotus's Malaysia,Malaysia,,Budget protein item
-2026-06-10,Canned Tuna,Protein,1,can,,Lotus's Malaysia,Malaysia,,Non-vegetarian protein option
-2026-06-10,Onion,Vegetables,1,kg,,Lotus's Malaysia,Malaysia,,Cooking essential
-2026-06-10,Tomato,Vegetables,1,kg,,Lotus's Malaysia,Malaysia,,Cooking essential
-2026-06-10,Potato,Vegetables,1,kg,,Lotus's Malaysia,Malaysia,,Common vegetable
-2026-06-10,Carrot,Vegetables,1,kg,,Lotus's Malaysia,Malaysia,,Common vegetable
-2026-06-10,Cabbage,Vegetables,1,kg,,Lotus's Malaysia,Malaysia,,Common vegetable
-2026-06-10,Milk,Dairy,1,L,,Lotus's Malaysia,Malaysia,,Dairy item
-2026-06-10,Yogurt,Dairy,1,kg,,Lotus's Malaysia,Malaysia,,Dairy item
-2026-06-10,Cheese,Dairy,1,pack,,Lotus's Malaysia,Malaysia,,Optional dairy item
-2026-06-10,Cooking Oil,Cooking Basics,1,L,,Lotus's Malaysia,Malaysia,,Cooking essential
-2026-06-10,Sugar,Cooking Basics,1,kg,,Lotus's Malaysia,Malaysia,,Cooking basic
-2026-06-10,Salt,Cooking Basics,1,kg,,Lotus's Malaysia,Malaysia,,Cooking basic
-2026-06-10,Flour,Cooking Basics,1,kg,,Lotus's Malaysia,Malaysia,,Cooking basic
-2026-06-10,Tea,Beverages / Extras,1,pack,,Lotus's Malaysia,Malaysia,,Common beverage
-2026-06-10,Coffee,Beverages / Extras,1,pack,,Lotus's Malaysia,Malaysia,,Common beverage
+2026-06-10,Rice,Staples,5,kg,18.3,Lotus's Malaysia,Malaysia,https://www.lotuss.com.my/en/product/75166796,JATI Super Special Import Rice 5kg
+2026-06-10,Bread,Staples,400,g,3.5,Lotus's Malaysia,Malaysia,https://www.lotuss.com.my/en/product/bran-and-wheatgerm-light-fibremeal-72070021,Gardenia Bran and Wheatgerm Bread 400g
+2026-06-10,Noodles,Staples,5,packets,5.19,Lotus's Malaysia,Malaysia,https://www.lotuss.com.my/en/product/maggi-2-minute-curry-flavour-noodles-5-x-79g-3201627,Maggi 2 Minute Curry Flavour Noodles 5x79g
+2026-06-10,Pasta,Staples,500,g,3.8,Lotus's Malaysia,Malaysia,https://www.lotuss.com.my/en/product/prego-spiral-pasta-500g-72823380,Prego Spiral Pasta 500G
+2026-06-10,Oats,Staples,1,kg,10.69,Lotus's Malaysia,Malaysia,https://www.lotuss.com.my/en/product/quaker-quick-cook-oatmeal-1kg-foil-70941157,Quaker Quick Cook Oatmeal 1kg
+2026-06-10,Eggs,Protein,10,pieces,4.99,Lotus's Malaysia,Malaysia,https://www.lotuss.com.my/en/product/lotuss-fresh-chicken-eggs-10s-a-74684809,Lotus's Fresh Chicken Eggs Grade A 10s
+2026-06-10,Dhal,Protein,300,g,2.8,Lotus's Malaysia,Malaysia,https://www.lotuss.com.my/en/product/lotuss-dhall-toor-300g-74689398,Lotus's Dhall Toor 300g
+2026-06-10,Tofu,Protein,200,g,1.79,Lotus's Malaysia,Malaysia,https://www.lotuss.com.my/en/product/taufu-keras-200g-1518801,Hard tofu 200g
+2026-06-10,Chickpeas,Protein,400,g,6.99,Lotus's Malaysia,Malaysia,https://www.lotuss.com.my/en/product/sw-garbanzo-beans-439g-4049128,S&W Garbanzo Beans 400g
+2026-06-10,Canned Tuna,Protein,150,g,5.29,Lotus's Malaysia,Malaysia,https://www.lotuss.com.my/en/product/lotuss-tuna-chunk-in-springwater-185g-74697013,Lotus's Tuna Chunk in Springwater 150g
+2026-06-10,Onion,Vegetables,2,kg,3.1,Lotus's Malaysia,Malaysia,https://www.lotuss.com.my/en/product/bawang-merah-besar-2kg-73750948,Big red onion 2kg
+2026-06-10,Tomato,Vegetables,1,kg,5.4,Lotus's Malaysia,Malaysia,https://www.lotuss.com.my/en/product/tomato-kg-3531-1765310,Tomato per kg
+2026-06-10,Potato,Vegetables,2,kg,4.5,Lotus's Malaysia,Malaysia,https://www.lotuss.com.my/en/product/ubi-kentang-2kg-73750956,Potatoes 2kg
+2026-06-10,Carrot,Vegetables,1,kg,3.99,Lotus's Malaysia,Malaysia,https://www.lotuss.com.my/en/product/sun-city-australia-carrots-1kg-3668746,Australia carrots 1kg pack
+2026-06-10,Cabbage,Vegetables,1,kg,1.98,Lotus's Malaysia,Malaysia,https://www.lotuss.com.my/en/product/kobis-beijing-kg-3855-beijing-cabbage-1821717,Beijing cabbage per kg
+2026-06-10,Milk,Dairy,1,L,5.9,Lotus's Malaysia,Malaysia,https://www.lotuss.com.my/en/product/75120446,Lotus's Full Cream Milk UHT 1L
+2026-06-10,Yogurt,Dairy,900,g,16.79,Lotus's Malaysia,Malaysia,https://www.lotuss.com.my/en/product/sunglo-grky-natural-full-cream-900gm-70767602,Sunglo Natural Full Cream Greek Yogurt 900g
+2026-06-10,Cheese,Dairy,400,g,18.25,Lotus's Malaysia,Malaysia,https://www.lotuss.com.my/en/product/anchor-cheddar-cheese-24-slices-400g-71138080,Anchor sliced cheddar cheese 400g
+2026-06-10,Cooking Oil,Cooking Basics,1,L,19.9,Lotus's Malaysia,Malaysia,https://www.lotuss.com.my/en/product/king-rice-bran-oil-1l-74738984,King Rice Bran Oil 1L
+2026-06-10,Sugar,Cooking Basics,1,kg,2.95,Lotus's Malaysia,Malaysia,https://www.lotuss.com.my/en/product/lotuss-fine-sugar-1kg-74690191,Lotus's Fine Sugar 1kg
+2026-06-10,Salt,Cooking Basics,1,kg,1.4,Lotus's Malaysia,Malaysia,https://www.lotuss.com.my/en/product/75193157,Lotus's Iodised Coarse Salt 1kg
+2026-06-10,Flour,Cooking Basics,1,kg,2.8,Lotus's Malaysia,Malaysia,https://www.lotuss.com.my/en/product/bakers-choice-superfine-wheat-flour-1kg-2014394,Bakers Choice Wheat Flour Enriched 1kg
+2026-06-10,Tea,Beverages / Extras,200,g,6.49,Lotus's Malaysia,Malaysia,https://www.lotuss.com.my/en/product/lipton-packet-tea-200g-94641,Lipton packet tea 200g
+2026-06-10,Coffee,Beverages / Extras,200,g,19.49,Lotus's Malaysia,Malaysia,https://www.lotuss.com.my/en/product/nescafe-classic-refill-pack-200g-1283804,Nescafe Classic refill pack 200g
